@@ -1,0 +1,6 @@
+1946 [main] INFO  com.max.BookingServiceTest - тест возврата Exception запущен
+1949 [main] DEBUG com.max.BookingServiceTest - Создание заглушки для метода: checkTimeInBD
+2009 [main] DEBUG com.max.BookingServiceTest - Заглушка для метода: checkTimeInBD - создана
+2103 [main] INFO  com.max.BookingServiceTest - тест успешного создания записи запущен
+2103 [main] DEBUG com.max.BookingServiceTest - Создание заглушек для методов: createBook, checkTimeInBD
+2106 [main] DEBUG com.max.BookingServiceTest - Заглушки для методов: createBook, checkTimeInBD - созданы
